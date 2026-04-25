@@ -34,5 +34,5 @@
 ---
 
 ## 📬 Connect with me
-* 📍 Located in **Yonkers, NY** / **The Bronx**
-* 🌎 Bilingual in **English & Spanish** (Learning Russian & Portuguese)
+* 📍 Located in **Westchester, NY** / **The Bronx**
+* 🌎 Bilingual in **English & Spanish** (Learning Portuguese)

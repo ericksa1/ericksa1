@@ -7,9 +7,9 @@
 ---
 
 # 👨‍💻 About Me
-* 🎓 **CS Senior @ CUNY Lehman College** (GPA: 3.7) | Expected Graduation: May 2026
+* 🎓 **CS Senior @ CUNY Lehman College** (GPA: 3.7/4.0) 
 * 🛠️ Currently working in **Classroom Technology Support** & **IT Help Desk**
-* 🏗️ Building and maintaining **IT Home Labs** using Dell Optiplex & Raspberry Pi
+* 🏗️ Building and maintaining **IT Home Labs** 
 * 🐧 Dedicated **Linux User** (Fedora, Arch, Mint)
 * 🛡️ Pursuing **CompTIA A+, Network+, and Security+** certifications
 * 🏋️ Bodybuilding enthusiast & 100% completionist gamer

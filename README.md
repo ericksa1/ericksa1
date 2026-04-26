@@ -12,7 +12,7 @@
 * 🏗️ Building and maintaining **IT Home Labs** 
 * 🐧 Dedicated **Linux User** (Fedora, Arch, Mint)
 * 🛡️ Pursuing **CompTIA A+, Network+, and Security+** certifications
-* 🏋️ Bodybuilding enthusiast & 100% completionist gamer
+
 
 ---
 

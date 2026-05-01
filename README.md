@@ -8,7 +8,7 @@
 
 # 👨‍💻 About Me
 * 🎓 **Bacheler of Science in Computer Science @ CUNY Lehman College ** (GPA: 3.7/4.0) 
-* 🛠️ Currently working in **Classroom Technology Support** & **IT Help Desk**
+* 🛠️ Currently working in **Classroom Technology Support** and **IT Help Desk**
 * 🏗️ Building and maintaining **IT Home Labs** 
 * 🐧 Dedicated **Linux User** (Fedora, Arch, Mint)
 * 🛡️ Pursuing **CompTIA A+, CompTIA Network+, and CompTIA Security+** certifications

@@ -11,7 +11,7 @@
 * 🛠️ Currently working in **Classroom Technology Support** and **IT Help Desk**
 * 🏗️ Building and maintaining **IT Home Labs** 
 * 🐧 Dedicated **Linux User** (Fedora, Arch, Mint)
-* 🛡️ Pursuing **CompTIA A+, CompTIA Network+, and CompTIA Security+** certifications
+* 🛡️ Pursuing **CompTIA A+, CompTIA Network+, & CompTIA Security+** certifications
 
 
 ---

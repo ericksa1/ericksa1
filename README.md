@@ -1,5 +1,5 @@
 
-# Erick Sanchez
+# Erick  Sanchez
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=6AA6FF&center=true&vCenter=true&width=900&lines=Network+Engineering+%7C+Cybersecurity+%7C+Computer+Science;Building+Secure+Infrastructure;Linux+Enthusiast+%7C+Home+Lab+Architect;CUNY+Lehman+College+%2726" alt="Typing SVG" />
 </p>
